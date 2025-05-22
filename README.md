@@ -2,6 +2,10 @@
 
 Welcome to **MiniTalk**! Ever wanted to send messages between processes using UNIX signals? This project is here to prove that communication doesn't need complex protocols; sometimes, it's just about signals and a bit of ingenuity.
 
+<p align="center">
+  <img src="https://i.imgur.com/MYUBcIo.gif" alt="Demonstração">
+</p>
+
 ## 🛠️ Project Overview
 
 MiniTalk is made up of two components:
